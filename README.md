@@ -21,4 +21,4 @@ Software engineer and team lead at **Systems Edge**, Addis Ababa (UTC+3). At wor
 
 ---
 
-[ab3l.dev](https://ab3l-dev.vercel.app) · [CV](https://ab3l-dev.vercel.app/cv/Abel_Kassahun_CV.pdf) · [abelkassahun101@gmail.com](mailto:abelkassahun101@gmail.com)
+[ab3ldev.vercel.dev](https://ab3ldev.vercel.dev) · [CV](https://ab3ldev.vercel.dev/cv/Abel_Kassahun_CV.pdf) · [abelkassahun101@gmail.com](mailto:abelkassahun101@gmail.com)
