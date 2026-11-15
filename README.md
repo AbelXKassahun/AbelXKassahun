@@ -1,8 +1,8 @@
 ### I build things.
 
-Software engineer and team lead at **Systems Edge**, Addis Ababa (UTC+3). At work, that means accounting software where every number has to add up. On my own time, it means a search engine for Amharic, plugins for my Linux desktop, and a server that sleeps until someone needs it.
+Software engineer at **Systems Edge**, Addis Ababa (UTC+3). At work, that means accounting software where every number has to add up. On my own time, it means a search engine for Amharic, plugins for my Linux desktop, and a server that sleeps until someone needs it.
 
-**Now** — leading the team behind an IFRS 9 investment and asset management system for government institutions, and working with finance protocols like FAST (FIX Adapted for STreaming) and ledger protocols.
+**Now** — building an IFRS 9 investment and asset management system for government institutions, and working with finance protocols like FAST (FIX Adapted for STreaming) and ledger protocols.
 
 #### Things I've built
 
