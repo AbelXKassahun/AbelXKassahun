@@ -8,4 +8,4 @@ Software engineer in Addis Ababa. I build all kinds of software: fintech apps, p
 
 ---
 
-[my_portfolio](https://ab3ldev.vercel.app/) · [abelkassahun101@gmail.com](mailto:abelkassahun101@gmail.com)
+[my_portfolio](https://ab3ldev.vercel.app/) · [my_email](mailto:abelkassahun101@gmail.com)
